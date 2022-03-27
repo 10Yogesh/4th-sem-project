@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.container{
+    display: flex;
+    height: 600px;
+    width: 800x;
+    align-items: center;
+    padding-right: 100px;
+
+}
+
+.navbar .text{
+    text-align: center;
+    color: white;
+    padding: 18px;
+    background-color: green;
+    letter-spacing: 2px;
+    font-size: 20px;
+
+
+}
+.login{
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    border: 3px;
+    
+}
+
+input{
+    height: 30px;
+    width: 200px;
+    border-radius: 9px;
+}
+.dha{
+    position: relative;
+    align-items: center;
+}
+
+.std{
+    width: 150px;
+    height: 30px;
+    margin-left: 336px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 7px;
+}
+.std a{
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    
+}

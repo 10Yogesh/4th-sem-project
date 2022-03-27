@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar .text{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: green;
+    letter-spacing: 2px;
+    font-size: 20px;
+
+
+}
+
+.container .container1{
+    width: 300px;
+    height: 790px;
+    background-color: grey;
+    margin-bottom: 20px;
+    margin-top: -16px;
+}
+
+.container .container2{
+    width: 1219px;
+    height: 790px;
+    background-color: rgb(184, 181, 181);
+    margin-bottom: 200px;
+    margin-top: -809px;
+    margin-left: 300px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 2px;
+    display: list-item;
+    padding: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    
+}
+
+.menu a:hover{
+    background-color: rgb(139, 201, 139);
+    transition: 0.5s;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}

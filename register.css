@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+
+}
+.register{
+    font-size: 30px;
+    justify-content: center;
+    letter-spacing: 2px;
+    padding: 10px;
+    
+
+}
+.form{
+    align-items: center;
+}
+.navbar .text{
+    text-align: center;
+    color: white;
+    padding: 18px;
+    background-color: green;
+    letter-spacing: 2px;
+
+}
+.box{
+    height: 30px;
+    width: 500px;
+    padding: 3px;
+    margin: 10px;
+    border-radius: 13px;
+}
+.btn{
+    background-color: green;
+    color: white;
+    border-color: black;
+    border-style: none;
+    padding: 5px;
+    height: 30px;
+    width: 450px;
+    border-radius: 4px;
+}
+.gb{
+    background-color: rgb(49, 49, 238);
+    color: white;
+    border-color: black;
+    border-style: none;
+    padding: 5px;
+    height: 30px;
+    width: 150px;
+    border-radius: 4px;
+
+}
+.sub{
+    width: 10px;
+    height: 20px;
+    padding-top: 170px;
+    padding-right: 40px;
+}
+input{
+    border-radius: 5px;
+    height: 20px;
+}
